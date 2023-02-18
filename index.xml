@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yang Yang</title>
-    <link>https://yangyang-tue.github.io/</link>
-      <atom:link href="https://yangyang-tue.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yangyang-pro.github.io/</link>
+      <atom:link href="https://yangyang-pro.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yang Yang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Feb 2023 18:02:18 +0100</lastBuildDate>
     <image>
-      <url>https://yangyang-tue.github.io/media/icon_hub151460de5eab8a9a71d9c040e97c7d6_58183_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yangyang-pro.github.io/media/icon_hub151460de5eab8a9a71d9c040e97c7d6_58183_512x512_fill_lanczos_center_3.png</url>
       <title>Yang Yang</title>
-      <link>https://yangyang-tue.github.io/</link>
+      <link>https://yangyang-pro.github.io/</link>
     </image>
     
     <item>
       <title>Bayesian Structure Scores for Probabilistic Circuits</title>
-      <link>https://yangyang-tue.github.io/publication/bayesian-scores-pc/</link>
+      <link>https://yangyang-pro.github.io/publication/bayesian-scores-pc/</link>
       <pubDate>Fri, 03 Feb 2023 18:02:18 +0100</pubDate>
-      <guid>https://yangyang-tue.github.io/publication/bayesian-scores-pc/</guid>
+      <guid>https://yangyang-pro.github.io/publication/bayesian-scores-pc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generalized Bayesian Network Classifiers</title>
-      <link>https://yangyang-tue.github.io/publication/master-thesis/</link>
+      <link>https://yangyang-pro.github.io/publication/master-thesis/</link>
       <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://yangyang-tue.github.io/publication/master-thesis/</guid>
+      <guid>https://yangyang-pro.github.io/publication/master-thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News</title>
-      <link>https://yangyang-tue.github.io/news/</link>
+      <link>https://yangyang-pro.github.io/news/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://yangyang-tue.github.io/news/</guid>
+      <guid>https://yangyang-pro.github.io/news/</guid>
       <description>
 
 
@@ -44,11 +44,11 @@
 
 &lt;p&gt;&lt;strong&gt;Jan 2023&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;🎉 Our work on &lt;a href=&#34;https://yangyang-tue.github.io/publication/bayesian-scores-pc&#34;&gt;Bayesian Structure Scores for Probabilistic Circuits&lt;/a&gt; has been accepted to AISTATS 2023! This is joint work with &lt;a href=&#34;https://robert-peharz.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robert Peharz&lt;/a&gt; and &lt;a href=&#34;https://uai.win.tue.nl/author/gennaro-gala/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gennaro Gala&lt;/a&gt;. Looking forward to meeting new people in beautiful Valencia!&lt;/li&gt;
+&lt;li&gt;🎉 Our work on &lt;a href=&#34;https://yangyang-pro.github.io/publication/bayesian-scores-pc&#34;&gt;Bayesian Structure Scores for Probabilistic Circuits&lt;/a&gt; has been accepted to AISTATS 2023! This is joint work with &lt;a href=&#34;https://robert-peharz.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robert Peharz&lt;/a&gt; and &lt;a href=&#34;https://uai.win.tue.nl/author/gennaro-gala/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gennaro Gala&lt;/a&gt;. Looking forward to meeting new people in beautiful Valencia!&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Nov 2022&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;🎓 I have graduated &lt;em&gt;Cum Laude&lt;/em&gt; from TU Eindhoven with a Master&amp;rsquo;s degree in Computer Science and Engineering! Check out my thesis &lt;a href=&#34;https://yangyang-tue.github.io/publication/master-thesis&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;🎓 I have graduated &lt;em&gt;Cum Laude&lt;/em&gt; from TU Eindhoven with a Master&amp;rsquo;s degree in Computer Science and Engineering! Check out my thesis &lt;a href=&#34;https://yangyang-pro.github.io/publication/master-thesis&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
@@ -56,9 +56,9 @@
     
     <item>
       <title></title>
-      <link>https://yangyang-tue.github.io/admin/config.yml</link>
+      <link>https://yangyang-pro.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yangyang-tue.github.io/admin/config.yml</guid>
+      <guid>https://yangyang-pro.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
