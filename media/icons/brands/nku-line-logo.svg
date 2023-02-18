@@ -6,10 +6,10 @@
 		</clipPath>
 	</defs>
 	<style>
-		.s0 { fill: none;stroke: #711a5f;stroke-width: 10 } 
-		.s1 { fill: #711a5f } 
-		.s2 { fill: #7a285e;stroke: #ff2e17;stroke-width: .1 } 
-		.s3 { fill: #7a285e } 
+		.s0 { fill: none;stroke: #711a5f;stroke-width: 10 }
+		.s1 { fill: #711a5f }
+		.s2 { fill: #711a5f }
+		.s3 { fill: #711a5f }
 	</style>
 	<g id="layer1">
 		<path id="path2991" class="s0" d="m255 505c-138.3 0-250-111.8-250-250 0-138.3 111.8-250 250-250 138.3 0 250 111.8 250 250 0 138.3-111.8 250-250 250z"/>
