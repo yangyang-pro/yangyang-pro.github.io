@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: March 14, 2023 --><html lang="en-us" >
+<!-- Last Published: March 15, 2023 --><html lang="en-us" >
 
 
 <head>
@@ -319,7 +319,7 @@
 
   
 
-<meta name="description" content="In this paper, we develop Bayesian scores for deterministic PCs, specifically the Bayes-Dirichlet (BD) score, i.e. the marginal structure likelihood under a Dirichlet parameter prior, and use it as an optimization objective in a greedy cutset learning algorithm." />
+<meta name="description" content="In this paper, we develop Bayesian structure scores for deterministic PCs, i.e., the structure likelihood with parameters marginalized out, which are well known as rigorous objectives for structure learning in probabilistic graphical models. When used within a greedy cutset algorithm, our scores effectively protect against overfitting and yield a fast and almost hyper-parameter-free structure learner, distinguishing it from previous approaches." />
 
 
 
@@ -359,16 +359,16 @@
 <meta property="og:site_name" content="Yang Yang" />
 <meta property="og:url" content="https://yangyang-pro.github.io/publication/bayesian-scores-pc/" />
 <meta property="og:title" content="Bayesian Structure Scores for Probabilistic Circuits | Yang Yang" />
-<meta property="og:description" content="In this paper, we develop Bayesian scores for deterministic PCs, specifically the Bayes-Dirichlet (BD) score, i.e. the marginal structure likelihood under a Dirichlet parameter prior, and use it as an optimization objective in a greedy cutset learning algorithm." /><meta property="og:image" content="https://yangyang-pro.github.io/media/icon_hub151460de5eab8a9a71d9c040e97c7d6_58183_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="In this paper, we develop Bayesian structure scores for deterministic PCs, i.e., the structure likelihood with parameters marginalized out, which are well known as rigorous objectives for structure learning in probabilistic graphical models. When used within a greedy cutset algorithm, our scores effectively protect against overfitting and yield a fast and almost hyper-parameter-free structure learner, distinguishing it from previous approaches." /><meta property="og:image" content="https://yangyang-pro.github.io/media/icon_hub151460de5eab8a9a71d9c040e97c7d6_58183_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2023-02-03T18:02:18&#43;01:00"
+      content="2023-01-19T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2023-02-03T18:02:18&#43;01:00">
+    <meta property="article:modified_time" content="2023-01-19T00:00:00&#43;00:00">
   
 
 
@@ -396,8 +396,8 @@
   },
   "headline": "Bayesian Structure Scores for Probabilistic Circuits",
   
-  "datePublished": "2023-02-03T18:02:18+01:00",
-  "dateModified": "2023-02-03T18:02:18+01:00",
+  "datePublished": "2023-01-19T00:00:00Z",
+  "dateModified": "2023-01-19T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -412,7 +412,7 @@
       "url": "https://yangyang-pro.github.io/media/icon_hub151460de5eab8a9a71d9c040e97c7d6_58183_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "In this paper, we develop Bayesian scores for deterministic PCs, specifically the Bayes-Dirichlet (BD) score, i.e. the marginal structure likelihood under a Dirichlet parameter prior, and use it as an optimization objective in a greedy cutset learning algorithm."
+  "description": "In this paper, we develop Bayesian structure scores for deterministic PCs, i.e., the structure likelihood with parameters marginalized out, which are well known as rigorous objectives for structure learning in probabilistic graphical models. When used within a greedy cutset algorithm, our scores effectively protect against overfitting and yield a fast and almost hyper-parameter-free structure learner, distinguishing it from previous approaches."
 }
 </script>
 
@@ -782,7 +782,7 @@
     
       
     
-    February, 2023
+    January, 2023
   </span>
   
 
@@ -818,7 +818,7 @@
     
   
 <a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/abs/2302.12130" target="_blank" rel="noopener">
-  <i class="fas fa-book mr-1"></i>Preprint</a>
+  <i class="fas fa-file-pdf mr-1"></i>Preprint</a>
 
 
 
@@ -831,7 +831,7 @@
 
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
         data-filename="/publication/bayesian-scores-pc/cite.bib">
-  <i class="fas fa-copy mr-1"></i>Cite</a>
+  <i class="fas fa-quote-right mr-1"></i>Cite</a>
 
 
   
@@ -865,7 +865,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Probabilistic circuits (PCs) are a prominent framework for expressing probability distributions with tractable inference. While parameter learning in PCs is well understood, structure learning is usually based on heuristics rather than on principled objectives. In this paper, we develop Bayesian scores for deterministic PCs, specifically the Bayes-Dirichlet (BD) score, i.e. the marginal structure likelihood under a Dirichlet parameter prior, and use it as an optimization objective in a greedy cutset learning algorithm. We also consider the Bayesian information criterion (BIC) for PCs as an alternative to BD. Our scores effectively protect against overfitting, making our structure learner fast and (almost) hyper-parameter free, distinguishing it from previous approaches. In experiments, we achieve good trade-offs between training time and model fit in terms of log-likelihood. Moreover, the principled nature of the Bayesian score unlocks PCs for accommodating frameworks such as structural expectation-maximization.</p>
+    <p class="pub-abstract">Probabilistic circuits (PCs) are a prominent representation of probability distributions with tractable inference. While parameter learning in PCs is rigorously studied, structure learning is often more based on heuristics than on principled objectives. In this paper, we develop Bayesian structure scores for deterministic PCs, i.e., the structure likelihood with parameters marginalized out, which are well known as rigorous objectives for structure learning in probabilistic graphical models. When used within a greedy cutset algorithm, our scores effectively protect against overfitting and yield a fast and almost hyper-parameter-free structure learner, distinguishing it from previous approaches. In experiments, we achieve good trade-offs between training time and model fit in terms of log-likelihood. Moreover, the principled nature of Bayesian scores unlocks PCs for accommodating frameworks such as structural expectation-maximization.</p>
     
 
     
