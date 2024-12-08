@@ -5,9 +5,9 @@
     <link>https://yangyang-pro.github.io/</link>
       <atom:link href="https://yangyang-pro.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yang Yang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yangyang-pro.github.io/media/icon_hub151460de5eab8a9a71d9c040e97c7d6_58183_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yangyang-pro.github.io/media/icon_hu11826614784377933939.png</url>
       <title>Yang Yang</title>
       <link>https://yangyang-pro.github.io/</link>
     </image>
@@ -68,14 +68,6 @@
 &lt;/ul&gt;
 
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://yangyang-pro.github.io/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yangyang-pro.github.io/admin/config.yml</guid>
-      <description></description>
     </item>
     
   </channel>

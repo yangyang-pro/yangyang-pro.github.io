@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Yang Yang</title>
-    <link>https://yangyang-pro.github.io/publication/</link>
-      <atom:link href="https://yangyang-pro.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Conference | Yang Yang</title>
+    <link>https://yangyang-pro.github.io/publication-type/conference/</link>
+      <atom:link href="https://yangyang-pro.github.io/publication-type/conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conference</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yangyang-pro.github.io/media/icon_hu11826614784377933939.png</url>
-      <title>Publications</title>
-      <link>https://yangyang-pro.github.io/publication/</link>
+      <title>Conference</title>
+      <link>https://yangyang-pro.github.io/publication-type/conference/</link>
     </image>
     
     <item>
@@ -25,14 +25,6 @@
       <link>https://yangyang-pro.github.io/publication/bayesian-scores-pc/</link>
       <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://yangyang-pro.github.io/publication/bayesian-scores-pc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generalized Bayesian Network Classifiers</title>
-      <link>https://yangyang-pro.github.io/publication/master-thesis/</link>
-      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://yangyang-pro.github.io/publication/master-thesis/</guid>
       <description></description>
     </item>
     
