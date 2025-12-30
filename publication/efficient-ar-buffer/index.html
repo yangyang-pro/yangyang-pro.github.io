@@ -324,12 +324,12 @@
 
   
 
-<meta name="description" content="In this paper, we develop Bayesian structure scores for deterministic PCs, i.e., the structure likelihood with parameters marginalized out, which are well known as rigorous objectives for structure learning in probabilistic graphical models. When used within a greedy cutset algorithm, our scores effectively protect against overfitting and yield a fast and almost hyper-parameter-free structure learner, distinguishing it from previous approaches." />
+<meta name="description" content="We propose an architecture extension to existing tabular foundations to generate joint predictive samples ~20x faster with minimal increase in training overhead and drop in performance." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://yangyang-pro.github.io/publication/bayesian-scores-pc/" />
-<link rel="canonical" href="https://yangyang-pro.github.io/publication/bayesian-scores-pc/" />
+<link rel="alternate" hreflang="en-us" href="https://yangyang-pro.github.io/publication/efficient-ar-buffer/" />
+<link rel="canonical" href="https://yangyang-pro.github.io/publication/efficient-ar-buffer/" />
 
 
 
@@ -368,18 +368,18 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Yang Yang" />
-<meta property="og:url" content="https://yangyang-pro.github.io/publication/bayesian-scores-pc/" />
-<meta property="og:title" content="Bayesian Structure Scores for Probabilistic Circuits | Yang Yang" />
-<meta property="og:description" content="In this paper, we develop Bayesian structure scores for deterministic PCs, i.e., the structure likelihood with parameters marginalized out, which are well known as rigorous objectives for structure learning in probabilistic graphical models. When used within a greedy cutset algorithm, our scores effectively protect against overfitting and yield a fast and almost hyper-parameter-free structure learner, distinguishing it from previous approaches." /><meta property="og:image" content="https://yangyang-pro.github.io/media/icon_hu_df48ca953122e72b.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:url" content="https://yangyang-pro.github.io/publication/efficient-ar-buffer/" />
+<meta property="og:title" content="Efficient Autoregressive Inference for Transformer Probabilistic Models | Yang Yang" />
+<meta property="og:description" content="We propose an architecture extension to existing tabular foundations to generate joint predictive samples ~20x faster with minimal increase in training overhead and drop in performance." /><meta property="og:image" content="https://yangyang-pro.github.io/media/icon_hu_df48ca953122e72b.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2023-04-13T00:00:00&#43;00:00"
+      content="2025-10-10T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2023-04-13T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2025-10-10T00:00:00&#43;00:00">
   
 
 
@@ -403,16 +403,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://yangyang-pro.github.io/publication/bayesian-scores-pc/"
+    "@id": "https://yangyang-pro.github.io/publication/efficient-ar-buffer/"
   },
-  "headline": "Bayesian Structure Scores for Probabilistic Circuits",
+  "headline": "Efficient Autoregressive Inference for Transformer Probabilistic Models",
   
-  "datePublished": "2023-04-13T00:00:00Z",
-  "dateModified": "2023-04-13T00:00:00Z",
+  "datePublished": "2025-10-10T00:00:00Z",
+  "dateModified": "2025-10-10T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Yang Yang"
+    "name": "Conor Hassan"
   },
   
   "publisher": {
@@ -423,7 +423,7 @@
       "url": "https://yangyang-pro.github.io/media/icon_hu_98b70e498fcbb938.png"
     }
   },
-  "description": "In this paper, we develop Bayesian structure scores for deterministic PCs, i.e., the structure likelihood with parameters marginalized out, which are well known as rigorous objectives for structure learning in probabilistic graphical models. When used within a greedy cutset algorithm, our scores effectively protect against overfitting and yield a fast and almost hyper-parameter-free structure learner, distinguishing it from previous approaches."
+  "description": "We propose an architecture extension to existing tabular foundations to generate joint predictive samples ~20x faster with minimal increase in training overhead and drop in performance."
 }
 </script>
 
@@ -445,7 +445,7 @@
 
 
   
-  <title>Bayesian Structure Scores for Probabilistic Circuits | Yang Yang</title>
+  <title>Efficient Autoregressive Inference for Transformer Probabilistic Models | Yang Yang</title>
 
   
   
@@ -465,7 +465,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="34512041a4d72246347b87215572490c" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="afb4c7b9286a93e4f5f0d05af8e8f14e" >
 
   
   
@@ -729,7 +729,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Bayesian Structure Scores for Probabilistic Circuits</h1>
+  <h1>Efficient Autoregressive Inference for Transformer Probabilistic Models</h1>
 
   
 
@@ -746,10 +746,16 @@
   <div>
     
 
-  <span class="author-highlighted">
-      Yang Yang</span><i class="author-notes fas fa-yin-yang" data-toggle="tooltip" title="Equal contribution"></i>, <span >
-      Gennaro Gala</span><i class="author-notes fas fa-yin-yang" data-toggle="tooltip" title="Equal contribution"></i>, <span >
-      Robert Peharz</span>
+  <span >
+      Conor Hassan</span>, <span >
+      Nasrulloh Loka</span>, <span >
+      Cen-You Li</span>, <span >
+      Daolang Huang</span>, <span >
+      Paul E. Chang</span>, <span class="author-highlighted">
+      Yang Yang</span>, <span >
+      Francesco Silvestrin</span>, <span >
+      Samuel Kaski</span>, <span >
+      Luigi Acerbi</span>
   </div>
   
   
@@ -760,7 +766,7 @@
     
       
     
-    April, 2023
+    October, 2025
   </span>
   
 
@@ -800,13 +806,13 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://proceedings.mlr.press/v206/yang23a.html" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/abs/2510.09477" target="_blank" rel="noopener">
   <i class="fas fa-file-pdf mr-1"></i>PDF</a>
 
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/bayesian-scores-pc/cite.bib">
+        data-filename="/publication/efficient-ar-buffer/cite.bib">
   <i class="fas fa-quote-right mr-1"></i>Cite</a>
 
 
@@ -814,7 +820,7 @@
   
     
   
-<a class="btn btn-outline-primary btn-page-header" href="https://github.com/yangyang-pro/bayesian-scores-pc" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://github.com/acerbilab/transformer-ar-buffer" target="_blank" rel="noopener">
   <i class="fab fa-github mr-1"></i>Code</a>
 
 
@@ -841,7 +847,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Probabilistic circuits (PCs) are a prominent representation of probability distributions with tractable inference. While parameter learning in PCs is rigorously studied, structure learning is often more based on heuristics than on principled objectives. In this paper, we develop Bayesian structure scores for deterministic PCs, i.e., the structure likelihood with parameters marginalized out, which are well known as rigorous objectives for structure learning in probabilistic graphical models. When used within a greedy cutset algorithm, our scores effectively protect against overfitting and yield a fast and almost hyper-parameter-free structure learner, distinguishing it from previous approaches. In experiments, we achieve good trade-offs between training time and model fit in terms of log-likelihood. Moreover, the principled nature of Bayesian scores unlocks PCs for accommodating frameworks such as structural expectation-maximization.</p>
+    <p class="pub-abstract">Transformer-based models for amortized probabilistic inference, such as neural processes, prior-fitted networks, and tabular foundation models, excel at single-pass marginal prediction. However, many real-world applications, from signal interpolation to multi-column tabular predictions, require coherent joint distributions that capture dependencies between predictions. While purely autoregressive architectures efficiently generate such distributions, they sacrifice the flexible set-conditioning that makes these models powerful for meta-learning. Conversely, the standard approach to obtain joint distributions from set-based models requires expensive re-encoding of the entire augmented conditioning set at each autoregressive step. We introduce a causal autoregressive buffer that preserves the advantages of both paradigms. Our approach decouples context encoding from updating the conditioning set. The model processes the context once and caches it. A dynamic buffer then captures target dependencies: as targets are incorporated, they enter the buffer and attend to both the cached context and previously buffered targets. This enables efficient batched autoregressive generation and one-pass joint log-likelihood evaluation. A unified training strategy allows seamless integration of set-based and autoregressive modes at minimal additional cost. Across synthetic functions, EEG signals, cognitive models, and tabular data, our method matches predictive accuracy of strong baselines while delivering up to 20 times faster joint sampling. Our approach combines the efficiency of autoregressive generative models with the representational power of set-based conditioning, making joint prediction practical for transformer-based probabilistic models.</p>
     
 
     
@@ -852,8 +858,8 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
-            <a href="/publication/#conference">
-              Conference
+            <a href="/publication/#preprint">
+              Preprint
             </a>
           </div>
         </div>
@@ -869,7 +875,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">The 26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023)</div>
+          <div class="col-12 col-md-9">arXiv:2510.09477</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -904,7 +910,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fyangyang-pro.github.io%2Fpublication%2Fbayesian-scores-pc%2F&amp;text=Bayesian&#43;Structure&#43;Scores&#43;for&#43;Probabilistic&#43;Circuits" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fyangyang-pro.github.io%2Fpublication%2Fefficient-ar-buffer%2F&amp;text=Efficient&#43;Autoregressive&#43;Inference&#43;for&#43;Transformer&#43;Probabilistic&#43;Models" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -921,7 +927,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fyangyang-pro.github.io%2Fpublication%2Fbayesian-scores-pc%2F&amp;t=Bayesian&#43;Structure&#43;Scores&#43;for&#43;Probabilistic&#43;Circuits" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fyangyang-pro.github.io%2Fpublication%2Fefficient-ar-buffer%2F&amp;t=Efficient&#43;Autoregressive&#43;Inference&#43;for&#43;Transformer&#43;Probabilistic&#43;Models" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -940,7 +946,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Bayesian%20Structure%20Scores%20for%20Probabilistic%20Circuits&amp;body=https%3A%2F%2Fyangyang-pro.github.io%2Fpublication%2Fbayesian-scores-pc%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Efficient%20Autoregressive%20Inference%20for%20Transformer%20Probabilistic%20Models&amp;body=https%3A%2F%2Fyangyang-pro.github.io%2Fpublication%2Fefficient-ar-buffer%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -957,7 +963,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fyangyang-pro.github.io%2Fpublication%2Fbayesian-scores-pc%2F&amp;title=Bayesian&#43;Structure&#43;Scores&#43;for&#43;Probabilistic&#43;Circuits" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fyangyang-pro.github.io%2Fpublication%2Fefficient-ar-buffer%2F&amp;title=Efficient&#43;Autoregressive&#43;Inference&#43;for&#43;Transformer&#43;Probabilistic&#43;Models" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -974,7 +980,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Bayesian&#43;Structure&#43;Scores&#43;for&#43;Probabilistic&#43;Circuits%20https%3A%2F%2Fyangyang-pro.github.io%2Fpublication%2Fbayesian-scores-pc%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Efficient&#43;Autoregressive&#43;Inference&#43;for&#43;Transformer&#43;Probabilistic&#43;Models%20https%3A%2F%2Fyangyang-pro.github.io%2Fpublication%2Fefficient-ar-buffer%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -991,7 +997,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fyangyang-pro.github.io%2Fpublication%2Fbayesian-scores-pc%2F&amp;title=Bayesian&#43;Structure&#43;Scores&#43;for&#43;Probabilistic&#43;Circuits" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fyangyang-pro.github.io%2Fpublication%2Fefficient-ar-buffer%2F&amp;title=Efficient&#43;Autoregressive&#43;Inference&#43;for&#43;Transformer&#43;Probabilistic&#43;Models" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1010,6 +1016,36 @@
 
 
   
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
   
     
 
@@ -1104,6 +1140,12 @@
 
     </div>
   </div>
+
+
+  
+    
+
+
 
 
   

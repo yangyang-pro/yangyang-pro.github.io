@@ -5,12 +5,28 @@
     <link>https://yangyang-pro.github.io/publication/</link>
       <atom:link href="https://yangyang-pro.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yangyang-pro.github.io/media/icon_hu11826614784377933939.png</url>
+      <url>https://yangyang-pro.github.io/media/icon_hu_df48ca953122e72b.png</url>
       <title>Publications</title>
       <link>https://yangyang-pro.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>PriorGuide: Test-Time Prior Adaptation for Simulation-Based Inference</title>
+      <link>https://yangyang-pro.github.io/publication/prior-guide/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://yangyang-pro.github.io/publication/prior-guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Autoregressive Inference for Transformer Probabilistic Models</title>
+      <link>https://yangyang-pro.github.io/publication/efficient-ar-buffer/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://yangyang-pro.github.io/publication/efficient-ar-buffer/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Probabilistic Multi-Dimensional Classification</title>
