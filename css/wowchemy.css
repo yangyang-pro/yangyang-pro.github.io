@@ -9737,3 +9737,9 @@ div.chart {
   margin-right: auto;
   margin-bottom: 1rem;
   overflow-x: auto; }
+
+.article-style a {
+  text-decoration: none; }
+
+.article-style a:hover {
+  text-decoration: underline; }

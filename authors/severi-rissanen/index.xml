@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Severi Rissanen | Yang Yang</title>
+    <link>http://localhost:1313/authors/severi-rissanen/</link>
+      <atom:link href="http://localhost:1313/authors/severi-rissanen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Severi Rissanen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_9116a6d9361fcf9a.png</url>
+      <title>Severi Rissanen</title>
+      <link>http://localhost:1313/authors/severi-rissanen/</link>
+    </image>
+    
+    <item>
+      <title>PriorGuide: Test-Time Prior Adaptation for Simulation-Based Inference</title>
+      <link>http://localhost:1313/publication/prior-guide/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/prior-guide/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

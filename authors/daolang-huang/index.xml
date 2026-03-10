@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daolang Huang | Yang Yang</title>
+    <link>http://localhost:1313/authors/daolang-huang/</link>
+      <atom:link href="http://localhost:1313/authors/daolang-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daolang Huang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_9116a6d9361fcf9a.png</url>
+      <title>Daolang Huang</title>
+      <link>http://localhost:1313/authors/daolang-huang/</link>
+    </image>
+    
+    <item>
+      <title>PriorGuide: Test-Time Prior Adaptation for Simulation-Based Inference</title>
+      <link>http://localhost:1313/publication/prior-guide/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/prior-guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Autoregressive Inference for Transformer Probabilistic Models</title>
+      <link>http://localhost:1313/publication/efficient-ar-buffer/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/efficient-ar-buffer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

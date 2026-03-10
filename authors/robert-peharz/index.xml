@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Peharz | Yang Yang</title>
+    <link>http://localhost:1313/authors/robert-peharz/</link>
+      <atom:link href="http://localhost:1313/authors/robert-peharz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert Peharz</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_9116a6d9361fcf9a.png</url>
+      <title>Robert Peharz</title>
+      <link>http://localhost:1313/authors/robert-peharz/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian Structure Scores for Probabilistic Circuits</title>
+      <link>http://localhost:1313/publication/bayesian-scores-pc/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bayesian-scores-pc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
