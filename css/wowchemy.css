@@ -9,6 +9,7 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+@import url("https://fonts.googleapis.com/css2?family=Zhi+Mang+Xing&display=swap");
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -9743,3 +9744,9 @@ div.chart {
 
 .article-style a:hover {
   text-decoration: underline; }
+
+.chinese-calligraphy {
+  font-family: "Zhi Mang Xing", cursive;
+  font-weight: 400;
+  font-size: 2rem;
+  font-style: normal; }
